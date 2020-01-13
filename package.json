@@ -1,0 +1,17 @@
+{
+  "name": "tweet-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-safe": "^8.2.0",
+    "ipp": "^2.0.1",
+    "pdfkit": "^0.11.0",
+    "twitter": "^1.7.1"
+  }
+}
